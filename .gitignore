@@ -1,6 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env                          # ← 重要：API Key 不能泄露！
+*.egg-info/
+
+# Node / Vue
 node_modules/
 dist/
-.env
-__pycache__/
-venv/
+
+# IDE
 .idea/
+.vscode/
+*.swp
