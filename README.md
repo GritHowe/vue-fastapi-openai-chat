@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI 问答机器人
 
 基于 Vue3 + FastAPI + OpenAI 的 AI 聊天应用。
@@ -19,3 +20,7 @@ python main.py
 cd frontend
 npm install
 npm run dev
+=======
+# vue-fastapi-openai-chat
+基于 Vue3 + FastAPI + OpenAI 的实时对话机器人
+>>>>>>> 28c7d68c791e9ff0e7f789922f49127917898c55
